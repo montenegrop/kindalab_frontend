@@ -1,0 +1,7 @@
+{
+  "name": "traf7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
